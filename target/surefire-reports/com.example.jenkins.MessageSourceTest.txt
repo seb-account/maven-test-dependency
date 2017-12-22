@@ -1,9 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.jenkins.MessageSourceTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.072 sec <<< FAILURE! - in com.example.jenkins.MessageSourceTest
-test(com.example.jenkins.MessageSourceTest)  Time elapsed: 0.008 sec  <<< FAILURE!
-java.lang.AssertionError: Not implemented
-	at org.junit.Assert.fail(Assert.java:88)
-	at com.example.jenkins.MessageSourceTest.test(MessageSourceTest.java:10)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.275 sec - in com.example.jenkins.MessageSourceTest
