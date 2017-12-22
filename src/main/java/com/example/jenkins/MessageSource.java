@@ -6,4 +6,9 @@ public class MessageSource {
     public String getMessage() {
         return message;
     }
+    public String thisIsABug(){
+        String str=null;
+        return str.toUpperCase();
+    }
+
 }
